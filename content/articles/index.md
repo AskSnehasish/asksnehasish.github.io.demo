@@ -1,4 +1,4 @@
 ---
 title: Articles
-slug: /demo
+slug: "demo"
 ---
