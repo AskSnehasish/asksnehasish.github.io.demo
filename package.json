@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "go": "^3.0.1",
-    "jekyll": "^3.0.0-beta1"
-  }
-}
