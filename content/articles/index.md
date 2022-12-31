@@ -1,3 +1,8 @@
+---
+title: Articles
+slug: "/"
+---
+
 # Travel Blog
 
 + > #### **How to use this template**
