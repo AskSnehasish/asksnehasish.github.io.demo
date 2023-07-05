@@ -9,7 +9,7 @@ Create a new hugo website or open your existing hugo site.
 
 #### Add the theme to your hugo site
 
-Use as a git submodule:
+Use as a git submodule: 
 
 ```sh
 git submodule add https://github.com/apvarun/digital-garden-hugo-theme.git themes/digitalgarden
